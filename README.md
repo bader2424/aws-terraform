@@ -3,7 +3,3 @@ It demonstrates Infrastructure as Code (IaC) best practices, including network i
 
 The infrastructure simulates a real-world backend application deployed on AWS, following common DevOps and cloud architecture patterns.
 
-How to Deploy:
-terraform init
-terraform plan
-terraform apply
